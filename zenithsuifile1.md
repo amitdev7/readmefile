@@ -1,4 +1,4 @@
-# 🎨 Zenithsui — Minimalist Paper-Like Infinite Canvas & Architectural Blueprint
+# 🎨 Zenithsui — Minimalist Paper-Like Infinite Canvas & Architectural Blueprint (mene banaya hai ji)
 
 <div align="center">
 
@@ -23,8 +23,7 @@ Designed for product thinkers, systems architects, students, and educators who t
 | :--- | :--- | :---: | :--- |
 | **Render** | Cloud Container Node.js Runtime | 🟢 Live | [`zenithsui.onrender.com`](https://zenithsui.onrender.com/) |
 | **Netlify** | Edge Global CDN Distribution | 🟢 Live | [`zenithsui.netlify.app`](https://zenithsui.netlify.app/) |
-| **Vercel** | Edge Network Serverless | 🟢 Live | [`zenithsui.vercel.app`](https://zenithsui.vercel.app/) |
-| **Desktop Shell** | Windows x64 Native Installer (NSIS) | 🟢 Available | [GitHub Releases](https://github.com/amitdev7/notepadbackup/releases) |
+| **Vercel** | Edge Network Serverless | 🟢 Live | [`zenithsui.vercel.app`](https://zenithsui.vercel.app/) | [not setuped well]
 
 ---
 
@@ -460,5 +459,7 @@ Zenithsui maintains a comprehensive automated testing suite consisting of **58 p
 Whether you are sketching an enterprise microservices diagram, mastering Class 10 mathematics, or brainstorming on an old Chromebook, Zenithsui delivers instantaneous, private, and beautiful results.
 
 *Document compiled and verified for production release.*
+
+**I hope you will like it bro**
 
 </div>
