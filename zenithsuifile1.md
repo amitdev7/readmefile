@@ -23,7 +23,7 @@ Designed for product thinkers, systems architects, students, and educators who t
 | :--- | :--- | :---: | :--- |
 | **Render** | Cloud Container Node.js Runtime | 🟢 Live | [`zenithsui.onrender.com`](https://zenithsui.onrender.com/) |
 | **Netlify** | Edge Global CDN Distribution | 🟢 Live | [`zenithsui.netlify.app`](https://zenithsui.netlify.app/) |
-| **Vercel** | Edge Network Serverless | 🟢 Live | [`zenithsui.vercel.app`](https://zenithsui.vercel.app/) | [not setuped well]
+| **Vercel** | Edge Network Serverless | 🟢 Live | [`zenithsui.vercel.app`](https://zenithsuinotepad.vercel.app/) |
 
 ---
 
