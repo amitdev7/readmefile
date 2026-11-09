@@ -442,7 +442,7 @@ Zenithsui maintains a comprehensive automated testing suite consisting of **58 p
 | :--- | :--- | :---: | :---: |
 | **Geometry & Math** | World-to-screen transforms, bounding boxes, union bounds | Native Node Strip-Types | ✅ PASSED |
 | **Shape Recognition** | Human wobbly circles, ellipses, rectangles, scribbles | `test-shape-recognition.ts` | ✅ PASSED |
-| **Excalidraw Parity** | Container text, hachure/cross-hatch fills, file sync | `test-excalidraw-parity.ts`| ✅ PASSED |
+| **Parity** | Container text, hachure/cross-hatch fills, file sync | `test-parity.ts`| ✅ PASSED |
 | **Auto-Dodge UI** | Mouse proximity dodge, pass-through ghosting, controls | `test-style-panel-auto-dodge.ts` | ✅ PASSED |
 | **Device Chooser** | Ultra-Low-End profiling, zero-blur culling, profile toggle | `test-device-chooser.ts` | ✅ PASSED |
 | **Persistence & Sync** | IndexedDB hydration, viewport memory, localStorage sync | `test-bulletproof-persistence.ts`| ✅ PASSED |
